@@ -1,0 +1,80 @@
+[
+    {
+        "schedule": [
+            {
+                "start_time": "13:50",
+                "subject": "ИиП",
+                "id": "1",
+                "day": "сб",
+                "group": "401"
+            },
+            {
+                "start_time": "15:50",
+                "subject": "ИиП",
+                "id": "2",
+                "day": "сб",
+                "group": "401"
+            },
+            {
+                "start_time": "15:50",
+                "subject": "АиСД",
+                "id": "3",
+                "day": "вт",
+                "group": "401"
+            }
+        ],
+        "name": "Абдурахманов",
+        "id": "1"
+    },
+    {
+        "schedule": [{
+            "start_time": "12:10",
+            "subject": "МА",
+            "id": "4",
+            "day": "пт",
+            "group": "401"
+        }],
+        "name": "Зубкова",
+        "id": "2"
+    },
+    {
+        "schedule": [
+            {
+                "start_time": "12:10",
+                "subject": "АиГ",
+                "id": "5",
+                "day": "пн",
+                "group": "401"
+            },
+            {
+                "start_time": "13:50",
+                "subject": "АиГ",
+                "id": "6",
+                "day": "пн",
+                "group": "401"
+            }
+        ],
+        "name": "Корнеева",
+        "id": "3"
+    },
+    {
+        "schedule": [
+            {
+                "start_time": "12:10",
+                "subject": "ДМ",
+                "id": "7",
+                "day": "ср",
+                "group": "401"
+            },
+            {
+                "start_time": "13:50",
+                "subject": "ДМ",
+                "id": "8",
+                "day": "ср",
+                "group": "401"
+            }
+        ],
+        "name": "Михайловская",
+        "id": "4"
+    }
+]
